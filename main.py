@@ -27,7 +27,8 @@ import datetime
 import math
 import arabic_reshaper
 from bidi.algorithm import get_display
-from hijridate import Gregorian
+def get_hijri(date):
+    pass
 
 # ── Window setup ──────────────────────────────────────────────────────────────
 Window.clearcolor = (0.035, 0.035, 0.035, 1)
