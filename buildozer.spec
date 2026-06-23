@@ -5,7 +5,7 @@ package.domain = com.widget
 source.dir = .
 source.include_exts = py,png,jpg,ttf,kv,atlas
 version = 1.0
-requirements = python3,kivy==2.2.1,arabic-reshaper,python-bidi,hijridate
+requirements = python3,kivy==2.3.0,arabic-reshaper,python-bidi
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
